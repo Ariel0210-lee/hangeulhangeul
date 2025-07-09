@@ -17,6 +17,6 @@
 
 해당 페이지는 포트폴리오용으로 제작된 팀 프로젝트 작업물입니다.
 
-## Mockup
+## Demo
 
-![Image](https://github.com/user-attachments/assets/bb959de8-11d8-4579-ad5b-912b158df3cd)
+![Image](https://github.com/user-attachments/assets/817c6a4b-4436-43be-8c22-94e80130de2c)
