@@ -36,7 +36,17 @@ https://hangeul-hangeul.netlify.app/
 |최혜진|송지혜|이윤지
 |------|-----|------|
 |<img width="260" height="260" alt="Image" src="https://github.com/user-attachments/assets/719da7e1-6703-4c6b-855d-4d8832276aa1" />|<img width="260" height="260" alt="Image" src="https://github.com/user-attachments/assets/42da5097-78fb-4868-88fe-dcb28113bda8" />|<img width="260" height="260" alt="Image" src="https://github.com/user-attachments/assets/7bedb3e9-35e4-488d-861a-aeb335af608f" />|
-|[@hyejijn](https://github.com/hyejijn)%7C------%7C[@Ariel0210](https://github.com/Ariel0210-lee)%7C
+|[@hyejijn](https://github.com/hyejijn)|------|[@Ariel0210](https://github.com/Ariel0210-lee)|
+
+## 기획 의도
+
+- 한글은 세계적으로 유일한 창제자가 알려진 문자이자, 과학적이고 독창적인 체계를 갖춘 문자로 평가받고 있음 그러나 일상에서 한글을 ‘언제, 어떻게, 왜’ 사용하는지에 대한 문화적, 감성적 접근은 부족한 현실
+
+- 기존의 한글 교육 콘텐츠는 딱딱하고 교과 중심으로 구성되어 있어, 일반 대중이 한글의 매력을 쉽게 접하기 어려움
+
+- 특히 디지털 세대는 시각적 콘텐츠와 인터랙션 중심의 경험에 익숙하므로, 한글의 문화적 감성, 조형미, 현대적 의미를 전달할 필요성이 커짐 이에 따라 한글을 감성적이고 창의적으로 조명하는 팬페이지 형태로 기획
+
+- ‘문자’ 그 이상의 문화로서 한글을 재해석하며, 한글을 사랑하는 사람들 간의 교류와 감상, 참여의 장을 마련하고자 함
 
 ## 1. 개발 환경
 
@@ -131,3 +141,4 @@ https://hangeul-hangeul.netlify.app/
 ## Demo
 
 ![Image](https://github.com/user-attachments/assets/817c6a4b-4436-43be-8c22-94e80130de2c)
+
